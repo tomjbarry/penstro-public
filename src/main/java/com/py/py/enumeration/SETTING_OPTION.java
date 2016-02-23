@@ -1,0 +1,7 @@
+package com.py.py.enumeration;
+
+public enum SETTING_OPTION {
+	ALLOW_PROFILE_COMMENTS,
+	ALLOW_WARNING_CONTENT,
+	HIDE_USER_PROFILE
+}
